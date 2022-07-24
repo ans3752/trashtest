@@ -1,2 +1,2 @@
-# trashcan
-https://ans3725.github.io/trashcan
+# trashtest
+https://ans3725.github.io/trashtest
